@@ -1,24 +1,7 @@
-Generated at 2018-06-07 13:43:07 +0200
-Chef::Exceptions::ValidationFailed: Property content must be one of: String, nil!  You passed :LALATEST.
-C:/opscode/chefdk/embedded/lib/ruby/gems/2.5.0/gems/chef-14.1.12-universal-mingw32/lib/chef/mixin/params_validate.rb:437:in `_pv_is'
-C:/opscode/chefdk/embedded/lib/ruby/gems/2.5.0/gems/chef-14.1.12-universal-mingw32/lib/chef/mixin/params_validate.rb:113:in `block (2 levels) in validate'
-C:/opscode/chefdk/embedded/lib/ruby/gems/2.5.0/gems/chef-14.1.12-universal-mingw32/lib/chef/mixin/params_validate.rb:110:in `each'
-C:/opscode/chefdk/embedded/lib/ruby/gems/2.5.0/gems/chef-14.1.12-universal-mingw32/lib/chef/mixin/params_validate.rb:110:in `block in validate'
-C:/opscode/chefdk/embedded/lib/ruby/gems/2.5.0/gems/chef-14.1.12-universal-mingw32/lib/chef/mixin/params_validate.rb:98:in `each'
-C:/opscode/chefdk/embedded/lib/ruby/gems/2.5.0/gems/chef-14.1.12-universal-mingw32/lib/chef/mixin/params_validate.rb:98:in `validate'
-C:/opscode/chefdk/embedded/lib/ruby/gems/2.5.0/gems/chef-14.1.12-universal-mingw32/lib/chef/property.rb:492:in `validate'
-C:/opscode/chefdk/embedded/lib/ruby/gems/2.5.0/gems/chef-14.1.12-universal-mingw32/lib/chef/property.rb:702:in `coerce_and_validate'
-C:/opscode/chefdk/embedded/lib/ruby/gems/2.5.0/gems/chef-14.1.12-universal-mingw32/lib/chef/property.rb:685:in `input_to_stored_value'
-C:/opscode/chefdk/embedded/lib/ruby/gems/2.5.0/gems/chef-14.1.12-universal-mingw32/lib/chef/property.rb:404:in `set'
-C:/opscode/chefdk/embedded/lib/ruby/gems/2.5.0/gems/chef-14.1.12-universal-mingw32/lib/chef/property.rb:326:in `call'
-C:/opscode/chefdk/embedded/lib/ruby/gems/2.5.0/gems/chef-14.1.12-universal-mingw32/lib/chef/property.rb:547:in `content'
-c:/chef/local-mode-cache/cache/cookbooks/solocookbook/recipes/default.rb:8:in `block in from_file'
-C:/opscode/chefdk/embedded/lib/ruby/gems/2.5.0/gems/chef-14.1.12-universal-mingw32/lib/chef/resource_builder.rb:66:in `instance_eval'
-C:/opscode/chefdk/embedded/lib/ruby/gems/2.5.0/gems/chef-14.1.12-universal-mingw32/lib/chef/resource_builder.rb:66:in `build'
-C:/opscode/chefdk/embedded/lib/ruby/gems/2.5.0/gems/chef-14.1.12-universal-mingw32/lib/chef/dsl/declare_resource.rb:314:in `build_resource'
-C:/opscode/chefdk/embedded/lib/ruby/gems/2.5.0/gems/chef-14.1.12-universal-mingw32/lib/chef/dsl/declare_resource.rb:271:in `declare_resource'
-C:/opscode/chefdk/embedded/lib/ruby/gems/2.5.0/gems/chef-14.1.12-universal-mingw32/lib/chef/dsl/resources.rb:38:in `file'
-c:/chef/local-mode-cache/cache/cookbooks/solocookbook/recipes/default.rb:7:in `from_file'
+Generated at 2018-06-07 16:21:31 +0200
+NoMethodError: undefined method `windows_zipfile' for cookbook: solocookbook, recipe: makezip :Chef::Recipe
+Did you mean?  windows_pagefile
+c:/chef/local-mode-cache/cache/cookbooks/solocookbook/recipes/makezip.rb:1:in `from_file'
 C:/opscode/chefdk/embedded/lib/ruby/gems/2.5.0/gems/chef-14.1.12-universal-mingw32/lib/chef/mixin/from_file.rb:34:in `instance_eval'
 C:/opscode/chefdk/embedded/lib/ruby/gems/2.5.0/gems/chef-14.1.12-universal-mingw32/lib/chef/mixin/from_file.rb:34:in `from_file'
 C:/opscode/chefdk/embedded/lib/ruby/gems/2.5.0/gems/chef-14.1.12-universal-mingw32/lib/chef/cookbook_version.rb:199:in `load_recipe'

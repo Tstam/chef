@@ -1,4 +1,4 @@
-Generated at 2018-06-07 15:30:34 +0200
+Generated at 2018-06-07 16:00:51 +0200
 Chef::Exceptions::PrivateKeyMissing: I cannot read C:\chef\validation.pem, which you told me to use to sign requests!
 C:/opscode/chefdk/embedded/lib/ruby/gems/2.5.0/gems/chef-14.1.12-universal-mingw32/lib/chef/http/authenticator.rb:95:in `rescue in load_signing_key'
 C:/opscode/chefdk/embedded/lib/ruby/gems/2.5.0/gems/chef-14.1.12-universal-mingw32/lib/chef/http/authenticator.rb:84:in `load_signing_key'
