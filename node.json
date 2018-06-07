@@ -1,0 +1,6 @@
+{
+	"run_list": [
+		"recipe[solocookbook]",
+		"recipe[solocookbook::default2]"
+		]
+}

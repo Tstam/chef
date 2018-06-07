@@ -1,0 +1,3423 @@
+{
+  "name": "tstam-01.allshare.net",
+  "normal": {
+    "tags": [
+
+    ]
+  },
+  "automatic": {
+    "cpu": {
+      "0": {
+        "cores": 4,
+        "vendor_id": "GenuineIntel",
+        "family": "205",
+        "model": "14857",
+        "stepping": "9",
+        "physical_id": "CPU0",
+        "model_name": "Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz",
+        "description": "Intel64 Family 6 Model 58 Stepping 9",
+        "mhz": "3201",
+        "cache_size": "1024 KB"
+      },
+      "total": 4,
+      "cores": 4,
+      "real": 1
+    },
+    "filesystem": {
+      "C:": {
+        "kb_size": 499578302,
+        "kb_available": 257587769,
+        "kb_used": 241990533,
+        "percent_used": 48,
+        "mount": "C:",
+        "fs_type": "ntfs",
+        "volume_name": ""
+      },
+      "D:": {
+        "kb_size": 0,
+        "kb_available": 0,
+        "kb_used": 0,
+        "percent_used": 0,
+        "mount": "D:",
+        "volume_name": null
+      },
+      "E:": {
+        "kb_size": 0,
+        "kb_available": 0,
+        "kb_used": 0,
+        "percent_used": 0,
+        "mount": "E:",
+        "volume_name": null
+      },
+      "F:": {
+        "kb_size": 0,
+        "kb_available": 0,
+        "kb_used": 0,
+        "percent_used": 0,
+        "mount": "F:",
+        "volume_name": null
+      },
+      "G:": {
+        "kb_size": 0,
+        "kb_available": 0,
+        "kb_used": 0,
+        "percent_used": 0,
+        "mount": "G:",
+        "volume_name": null
+      },
+      "Z:": {
+        "kb_size": 0,
+        "kb_available": 0,
+        "kb_used": 0,
+        "percent_used": 0,
+        "mount": "Z:",
+        "volume_name": null
+      }
+    },
+    "kernel": {
+      "os_info": {
+        "boot_device": "\\Device\\HarddiskVolume1",
+        "build_number": "15063",
+        "build_type": "Multiprocessor Free",
+        "caption": "Microsoft Windows 10 Pro",
+        "code_set": "1252",
+        "country_code": "1",
+        "csd_version": null,
+        "cs_name": "TSTAM-01",
+        "current_time_zone": 120,
+        "data_execution_prevention_32_bit_applications": true,
+        "data_execution_prevention_available": true,
+        "data_execution_prevention_drivers": true,
+        "data_execution_prevention_support_policy": 2,
+        "debug": false,
+        "description": "",
+        "distributed": false,
+        "encryption_level": 256,
+        "foreground_application_boost": 2,
+        "install_date": "20170824121100.000000+120",
+        "large_system_cache": null,
+        "last_boot_up_time": "20180601095741.495407+120",
+        "local_date_time": "20180607151448.875000+120",
+        "locale": "0409",
+        "manufacturer": "Microsoft Corporation",
+        "max_number_of_processes": -1,
+        "max_process_memory_size": "137438953344",
+        "mui_languages": [
+          "en-US"
+        ],
+        "name": "Microsoft Windows 10 Pro|C:\\Windows|\\Device\\Harddisk0\\Partition2",
+        "number_of_licensed_users": 0,
+        "number_of_processes": 158,
+        "number_of_users": 11,
+        "operating_system_sku": 48,
+        "organization": "",
+        "os_architecture": "64-bit",
+        "os_language": 1033,
+        "os_product_suite": 256,
+        "os_type": 18,
+        "other_type_description": null,
+        "pae_enabled": null,
+        "plus_product_id": null,
+        "plus_version_number": null,
+        "portable_operating_system": false,
+        "primary": true,
+        "product_type": 1,
+        "registered_user": "Windows User",
+        "serial_number": "00330-80000-00000-AA925",
+        "service_pack_major_version": 0,
+        "service_pack_minor_version": 0,
+        "size_stored_in_paging_files": "2490368",
+        "status": "OK",
+        "suite_mask": 272,
+        "system_device": "\\Device\\HarddiskVolume2",
+        "system_directory": "C:\\Windows\\system32",
+        "system_drive": "C:",
+        "total_visible_memory_size": "16743200",
+        "version": "10.0.15063",
+        "windows_directory": "C:\\Windows"
+      },
+      "name": "Microsoft Windows 10 Pro",
+      "release": "10.0.15063",
+      "version": "10.0.15063  Build 15063",
+      "os": "WINNT",
+      "product_type": "Workstation",
+      "server_core": false,
+      "cs_info": {
+        "admin_password_status": 3,
+        "automatic_managed_pagefile": true,
+        "automatic_reset_boot_option": true,
+        "automatic_reset_capability": true,
+        "boot_option_on_limit": null,
+        "boot_option_on_watch_dog": null,
+        "boot_rom_supported": true,
+        "boot_status": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "bootup_state": "Normal boot",
+        "caption": "TSTAM-01",
+        "chassis_bootup_state": 3,
+        "chassis_sku_number": null,
+        "current_time_zone": 120,
+        "daylight_in_effect": true,
+        "description": "AT/AT COMPATIBLE",
+        "dns_host_name": "tstam-01",
+        "domain": "allshare.net",
+        "domain_role": 1,
+        "enable_daylight_savings_time": true,
+        "front_panel_reset_status": 3,
+        "hypervisor_present": false,
+        "infrared_supported": false,
+        "initial_load_info": null,
+        "install_date": null,
+        "keyboard_password_status": 3,
+        "last_load_info": null,
+        "manufacturer": "                                 ",
+        "model": "                                 ",
+        "name": "TSTAM-01",
+        "name_format": null,
+        "network_server_mode_enabled": true,
+        "number_of_logical_processors": 4,
+        "number_of_processors": 1,
+        "oem_string_array": [
+          "To Be Filled By O.E.M."
+        ],
+        "part_of_domain": true,
+        "pause_after_reset": "-1",
+        "pc_system_type": 1,
+        "pc_system_type_ex": 1,
+        "power_management_capabilities": null,
+        "power_management_supported": null,
+        "power_on_password_status": 3,
+        "power_state": 0,
+        "power_supply_state": 3,
+        "primary_owner_contact": null,
+        "primary_owner_name": "Windows User",
+        "reset_capability": 1,
+        "reset_count": -1,
+        "reset_limit": -1,
+        "roles": [
+          "LM_Workstation",
+          "LM_Server",
+          "SQLServer",
+          "NT",
+          "Potential_Browser",
+          "Master_Browser"
+        ],
+        "status": "OK",
+        "support_contact_description": null,
+        "system_family": "To be filled by O.E.M.",
+        "system_sku_number": "To be filled by O.E.M.",
+        "system_startup_delay": null,
+        "system_startup_options": null,
+        "system_startup_setting": null,
+        "system_type": "x64-based PC",
+        "thermal_state": 3,
+        "total_physical_memory": "17145036800",
+        "user_name": "ALLSHARE\\tstam",
+        "wake_up_type": 6,
+        "workgroup": null
+      },
+      "machine": "x86_64",
+      "system_type": "Desktop"
+    },
+    "memory": {
+      "swap": {
+        "total": "2490368kB",
+        "free": "2474932kB"
+      },
+      "total": "16743200kB",
+      "free": "9763668kB"
+    },
+    "network": {
+      "interfaces": {
+        "0x3": {
+          "configuration": {
+            "ip_address": [
+              "10.200.5.64",
+              "fe80::6c5e:2c2c:a59f:3075"
+            ],
+            "arp_always_source_route": null,
+            "arp_use_ether_snap": null,
+            "caption": "[00000001] Intel(R) 82579V Gigabit Network Connection",
+            "database_path": "%SystemRoot%\\System32\\drivers\\etc",
+            "dead_gw_detect_enabled": null,
+            "default_ip_gateway": [
+              "10.200.5.1"
+            ],
+            "default_tos": null,
+            "default_ttl": null,
+            "description": "Intel(R) 82579V Gigabit Network Connection",
+            "dhcp_enabled": true,
+            "dhcp_lease_expires": "20180613095836.000000+120",
+            "dhcp_lease_obtained": "20180605095836.000000+120",
+            "dhcp_server": "10.12.12.10",
+            "dns_domain": "allshare.net",
+            "dns_domain_suffix_search_order": [
+              "allshare.net",
+              "ads.allshare",
+              "bitlibre.net",
+              "intranet.allshare.nl",
+              "allmediabanking.local"
+            ],
+            "dns_enabled_for_wins_resolution": false,
+            "dns_host_name": "tstam-01",
+            "dns_server_search_order": [
+              "10.12.12.10",
+              "10.12.12.11"
+            ],
+            "domain_dns_registration_enabled": false,
+            "forward_buffer_memory": null,
+            "full_dns_registration_enabled": true,
+            "gateway_cost_metric": [
+              0
+            ],
+            "igmp_level": null,
+            "index": 1,
+            "interface_index": 3,
+            "ip_connection_metric": 25,
+            "ip_enabled": true,
+            "ip_filter_security_enabled": false,
+            "ip_port_security_enabled": null,
+            "ip_sec_permit_ip_protocols": [
+
+            ],
+            "ip_sec_permit_tcp_ports": [
+
+            ],
+            "ip_sec_permit_udp_ports": [
+
+            ],
+            "ip_subnet": [
+              "255.255.255.0",
+              "64"
+            ],
+            "ip_use_zero_broadcast": null,
+            "ipx_address": null,
+            "ipx_enabled": null,
+            "ipx_frame_type": null,
+            "ipx_media_type": null,
+            "ipx_network_number": null,
+            "ipx_virtual_net_number": null,
+            "keep_alive_interval": null,
+            "keep_alive_time": null,
+            "mac_address": "00:22:4D:89:21:14",
+            "mtu": null,
+            "num_forward_packets": null,
+            "pmtubh_detect_enabled": null,
+            "pmtu_discovery_enabled": null,
+            "service_name": "e1iexpress",
+            "setting_id": "{1AA58CD9-DADD-4588-8719-0A73A8030F2C}",
+            "tcpip_netbios_options": 0,
+            "tcp_max_connect_retransmissions": null,
+            "tcp_max_data_retransmissions": null,
+            "tcp_num_connections": null,
+            "tcp_use_rfc1122_urgent_pointer": null,
+            "tcp_window_size": null,
+            "wins_enable_lm_hosts_lookup": true,
+            "wins_host_lookup_file": null,
+            "wins_primary_server": "10.12.12.10",
+            "wins_scope_id": "",
+            "wins_secondary_server": null
+          },
+          "instance": {
+            "adapter_type": "Ethernet 802.3",
+            "adapter_type_id": 0,
+            "auto_sense": null,
+            "availability": 3,
+            "caption": "[00000001] Intel(R) 82579V Gigabit Network Connection",
+            "config_manager_error_code": 0,
+            "config_manager_user_config": false,
+            "description": "Intel(R) 82579V Gigabit Network Connection",
+            "device_id": "1",
+            "error_cleared": null,
+            "error_description": null,
+            "guid": "{1AA58CD9-DADD-4588-8719-0A73A8030F2C}",
+            "index": 1,
+            "install_date": null,
+            "installed": true,
+            "interface_index": 3,
+            "last_error_code": null,
+            "mac_address": "00:22:4D:89:21:14",
+            "manufacturer": "Intel Corporation",
+            "max_number_controlled": 0,
+            "max_speed": null,
+            "name": "Intel(R) 82579V Gigabit Network Connection",
+            "net_connection_id": "Ethernet",
+            "net_connection_status": 2,
+            "net_enabled": true,
+            "network_addresses": null,
+            "permanent_address": null,
+            "physical_adapter": true,
+            "pnp_device_id": "PCI\\VEN_8086&DEV_1503&SUBSYS_20328086&REV_04\\3&11583659&0&C8",
+            "power_management_capabilities": null,
+            "power_management_supported": false,
+            "product_name": "Intel(R) 82579V Gigabit Network Connection",
+            "service_name": "e1iexpress",
+            "speed": "1000000000",
+            "status": null,
+            "status_info": null,
+            "system_name": "TSTAM-01",
+            "time_of_last_reset": "20180601095741.495407+120"
+          },
+          "counters": {
+
+          },
+          "addresses": {
+            "10.200.5.64": {
+              "prefixlen": "24",
+              "netmask": "255.255.255.0",
+              "broadcast": "10.200.5.255",
+              "family": "inet"
+            },
+            "fe80::6c5e:2c2c:a59f:3075": {
+              "prefixlen": "64",
+              "family": "inet6",
+              "scope": "Link"
+            },
+            "00:22:4D:89:21:14": {
+              "family": "lladdr"
+            }
+          },
+          "mtu": null,
+          "type": "Ethernet 802.3",
+          "arp": {
+            "10.200.5.1": "24:e9:b3:62:4e:cc",
+            "10.200.5.10": "40:a8:f0:57:35:04",
+            "10.200.5.11": "c4:34:6b:7c:8f:63",
+            "10.200.5.12": "88:51:fb:60:d5:6b",
+            "10.200.5.13": "2c:44:fd:0c:24:be",
+            "10.200.5.14": "a0:1d:48:68:fc:0d",
+            "10.200.5.15": "e0:69:95:eb:db:20",
+            "10.200.5.16": "64:51:06:2b:6f:a7",
+            "10.200.5.18": "00:22:64:a6:aa:eb",
+            "10.200.5.20": "2c:44:fd:0e:94:77",
+            "10.200.5.21": "a0:48:1c:8e:17:0a",
+            "10.200.5.22": "2c:44:fd:67:af:cb",
+            "10.200.5.28": "40:a8:f0:57:3a:37",
+            "10.200.5.31": "94:c6:91:18:81:37",
+            "10.200.5.32": "a0:48:1c:77:a3:d6",
+            "10.200.5.33": "40:a8:f0:5a:e7:c5",
+            "10.200.5.34": "88:51:fb:60:d5:77",
+            "10.200.5.36": "40:a8:f0:5f:96:24",
+            "10.200.5.37": "50:65:f3:2e:ca:27",
+            "10.200.5.38": "40:a8:f0:47:bb:59",
+            "10.200.5.39": "40:a8:f0:5f:8f:9b",
+            "10.200.5.40": "38:60:77:39:5b:e1",
+            "10.200.5.41": "a0:d3:c1:33:8c:97",
+            "10.200.5.43": "a0:48:1c:95:dc:70",
+            "10.200.5.46": "2c:44:fd:0c:24:46",
+            "10.200.5.48": "40:a8:f0:3c:84:ab",
+            "10.200.5.50": "64:51:06:2b:b2:48",
+            "10.200.5.51": "50:65:f3:4f:23:3b",
+            "10.200.5.53": "fc:15:b4:03:5a:64",
+            "10.200.5.54": "70:5a:0f:36:9a:51",
+            "10.200.5.57": "d4:81:d7:1f:be:f0",
+            "10.200.5.58": "70:71:bc:6b:30:7f",
+            "10.200.5.59": "6c:3b:e5:f3:1f:d1",
+            "10.200.5.62": "00:24:7e:70:05:a7",
+            "10.200.5.63": "40:a8:f0:56:38:6c",
+            "10.200.5.65": "48:4d:7e:b1:20:8f",
+            "10.200.5.66": "00:24:7e:70:05:ad",
+            "10.200.5.68": "00:24:7e:70:05:10",
+            "10.200.5.255": "ff:ff:ff:ff:ff:ff",
+            "224.0.0.22": "01:00:5e:00:00:16",
+            "224.0.0.252": "01:00:5e:00:00:fc",
+            "225.6.7.8": "01:00:5e:06:07:08",
+            "239.255.255.250": "01:00:5e:7f:ff:fa",
+            "255.255.255.255": "ff:ff:ff:ff:ff:ff"
+          },
+          "encapsulation": "Ethernet"
+        },
+        "0xc": {
+          "configuration": {
+            "ip_address": [
+              "10.0.75.1",
+              "fe80::b514:7433:3e55:11c1"
+            ],
+            "arp_always_source_route": null,
+            "arp_use_ether_snap": null,
+            "caption": "[00000015] Hyper-V Virtual Ethernet Adapter",
+            "database_path": "%SystemRoot%\\System32\\drivers\\etc",
+            "dead_gw_detect_enabled": null,
+            "default_ip_gateway": null,
+            "default_tos": null,
+            "default_ttl": null,
+            "description": "Hyper-V Virtual Ethernet Adapter #2",
+            "dhcp_enabled": false,
+            "dhcp_lease_expires": null,
+            "dhcp_lease_obtained": null,
+            "dhcp_server": null,
+            "dns_domain": null,
+            "dns_domain_suffix_search_order": [
+              "allshare.net",
+              "ads.allshare",
+              "bitlibre.net",
+              "intranet.allshare.nl",
+              "allmediabanking.local"
+            ],
+            "dns_enabled_for_wins_resolution": false,
+            "dns_host_name": "tstam-01",
+            "dns_server_search_order": null,
+            "domain_dns_registration_enabled": false,
+            "forward_buffer_memory": null,
+            "full_dns_registration_enabled": true,
+            "gateway_cost_metric": null,
+            "igmp_level": null,
+            "index": 15,
+            "interface_index": 12,
+            "ip_connection_metric": 15,
+            "ip_enabled": true,
+            "ip_filter_security_enabled": false,
+            "ip_port_security_enabled": null,
+            "ip_sec_permit_ip_protocols": [
+
+            ],
+            "ip_sec_permit_tcp_ports": [
+
+            ],
+            "ip_sec_permit_udp_ports": [
+
+            ],
+            "ip_subnet": [
+              "255.255.255.0",
+              "64"
+            ],
+            "ip_use_zero_broadcast": null,
+            "ipx_address": null,
+            "ipx_enabled": null,
+            "ipx_frame_type": null,
+            "ipx_media_type": null,
+            "ipx_network_number": null,
+            "ipx_virtual_net_number": null,
+            "keep_alive_interval": null,
+            "keep_alive_time": null,
+            "mac_address": "00:15:5D:04:12:12",
+            "mtu": null,
+            "num_forward_packets": null,
+            "pmtubh_detect_enabled": null,
+            "pmtu_discovery_enabled": null,
+            "service_name": "VMSMP",
+            "setting_id": "{8B3B4FBD-9A51-41B2-8AC0-9F29DC86ABD8}",
+            "tcpip_netbios_options": 0,
+            "tcp_max_connect_retransmissions": null,
+            "tcp_max_data_retransmissions": null,
+            "tcp_num_connections": null,
+            "tcp_use_rfc1122_urgent_pointer": null,
+            "tcp_window_size": null,
+            "wins_enable_lm_hosts_lookup": true,
+            "wins_host_lookup_file": null,
+            "wins_primary_server": null,
+            "wins_scope_id": "",
+            "wins_secondary_server": null
+          },
+          "instance": {
+            "adapter_type": "Ethernet 802.3",
+            "adapter_type_id": 0,
+            "auto_sense": null,
+            "availability": 3,
+            "caption": "[00000015] Hyper-V Virtual Ethernet Adapter",
+            "config_manager_error_code": 0,
+            "config_manager_user_config": false,
+            "description": "Hyper-V Virtual Ethernet Adapter",
+            "device_id": "15",
+            "error_cleared": null,
+            "error_description": null,
+            "guid": "{8B3B4FBD-9A51-41B2-8AC0-9F29DC86ABD8}",
+            "index": 15,
+            "install_date": null,
+            "installed": true,
+            "interface_index": 12,
+            "last_error_code": null,
+            "mac_address": "00:15:5D:04:12:12",
+            "manufacturer": "Microsoft",
+            "max_number_controlled": 0,
+            "max_speed": null,
+            "name": "Hyper-V Virtual Ethernet Adapter #2",
+            "net_connection_id": "vEthernet (DockerNAT)",
+            "net_connection_status": 2,
+            "net_enabled": true,
+            "network_addresses": null,
+            "permanent_address": null,
+            "physical_adapter": true,
+            "pnp_device_id": "ROOT\\VMS_MP\\0001",
+            "power_management_capabilities": null,
+            "power_management_supported": false,
+            "product_name": "Hyper-V Virtual Ethernet Adapter",
+            "service_name": "VMSMP",
+            "speed": "10000000000",
+            "status": null,
+            "status_info": null,
+            "system_name": "TSTAM-01",
+            "time_of_last_reset": "20180601095741.495407+120"
+          },
+          "counters": {
+
+          },
+          "addresses": {
+            "10.0.75.1": {
+              "prefixlen": "24",
+              "netmask": "255.255.255.0",
+              "broadcast": "10.0.75.255",
+              "family": "inet"
+            },
+            "fe80::b514:7433:3e55:11c1": {
+              "prefixlen": "64",
+              "family": "inet6",
+              "scope": "Link"
+            },
+            "00:15:5D:04:12:12": {
+              "family": "lladdr"
+            }
+          },
+          "mtu": null,
+          "type": "Ethernet 802.3",
+          "arp": {
+            "10.0.75.255": "ff:ff:ff:ff:ff:ff",
+            "224.0.0.22": "01:00:5e:00:00:16",
+            "224.0.0.252": "01:00:5e:00:00:fc",
+            "225.6.7.8": "01:00:5e:06:07:08",
+            "239.255.255.250": "01:00:5e:7f:ff:fa",
+            "255.255.255.255": "ff:ff:ff:ff:ff:ff"
+          },
+          "encapsulation": "Ethernet"
+        },
+        "0x2": {
+          "configuration": {
+            "ip_address": [
+              "192.168.131.1",
+              "fe80::9496:c105:88f7:c812"
+            ],
+            "arp_always_source_route": null,
+            "arp_use_ether_snap": null,
+            "caption": "[00000016] VMware Virtual Ethernet Adapter for VMnet1",
+            "database_path": "%SystemRoot%\\System32\\drivers\\etc",
+            "dead_gw_detect_enabled": null,
+            "default_ip_gateway": null,
+            "default_tos": null,
+            "default_ttl": null,
+            "description": "VMware Virtual Ethernet Adapter for VMnet1",
+            "dhcp_enabled": true,
+            "dhcp_lease_expires": "20180607154343.000000+120",
+            "dhcp_lease_obtained": "20180607151343.000000+120",
+            "dhcp_server": "192.168.131.254",
+            "dns_domain": null,
+            "dns_domain_suffix_search_order": [
+              "allshare.net",
+              "ads.allshare",
+              "bitlibre.net",
+              "intranet.allshare.nl",
+              "allmediabanking.local"
+            ],
+            "dns_enabled_for_wins_resolution": false,
+            "dns_host_name": "tstam-01",
+            "dns_server_search_order": null,
+            "domain_dns_registration_enabled": false,
+            "forward_buffer_memory": null,
+            "full_dns_registration_enabled": true,
+            "gateway_cost_metric": null,
+            "igmp_level": null,
+            "index": 16,
+            "interface_index": 2,
+            "ip_connection_metric": 35,
+            "ip_enabled": true,
+            "ip_filter_security_enabled": false,
+            "ip_port_security_enabled": null,
+            "ip_sec_permit_ip_protocols": [
+
+            ],
+            "ip_sec_permit_tcp_ports": [
+
+            ],
+            "ip_sec_permit_udp_ports": [
+
+            ],
+            "ip_subnet": [
+              "255.255.255.0",
+              "64"
+            ],
+            "ip_use_zero_broadcast": null,
+            "ipx_address": null,
+            "ipx_enabled": null,
+            "ipx_frame_type": null,
+            "ipx_media_type": null,
+            "ipx_network_number": null,
+            "ipx_virtual_net_number": null,
+            "keep_alive_interval": null,
+            "keep_alive_time": null,
+            "mac_address": "00:50:56:C0:00:01",
+            "mtu": null,
+            "num_forward_packets": null,
+            "pmtubh_detect_enabled": null,
+            "pmtu_discovery_enabled": null,
+            "service_name": "VMnetAdapter",
+            "setting_id": "{06F186A8-C5D0-4FA8-AA1C-6CA9C20C38EE}",
+            "tcpip_netbios_options": 0,
+            "tcp_max_connect_retransmissions": null,
+            "tcp_max_data_retransmissions": null,
+            "tcp_num_connections": null,
+            "tcp_use_rfc1122_urgent_pointer": null,
+            "tcp_window_size": null,
+            "wins_enable_lm_hosts_lookup": true,
+            "wins_host_lookup_file": null,
+            "wins_primary_server": null,
+            "wins_scope_id": "",
+            "wins_secondary_server": null
+          },
+          "instance": {
+            "adapter_type": "Ethernet 802.3",
+            "adapter_type_id": 0,
+            "auto_sense": null,
+            "availability": 3,
+            "caption": "[00000016] VMware Virtual Ethernet Adapter for VMnet1",
+            "config_manager_error_code": 0,
+            "config_manager_user_config": false,
+            "description": "VMware Virtual Ethernet Adapter for VMnet1",
+            "device_id": "16",
+            "error_cleared": null,
+            "error_description": null,
+            "guid": "{06F186A8-C5D0-4FA8-AA1C-6CA9C20C38EE}",
+            "index": 16,
+            "install_date": null,
+            "installed": true,
+            "interface_index": 2,
+            "last_error_code": null,
+            "mac_address": "00:50:56:C0:00:01",
+            "manufacturer": "VMware, Inc.",
+            "max_number_controlled": 0,
+            "max_speed": null,
+            "name": "VMware Virtual Ethernet Adapter for VMnet1",
+            "net_connection_id": "VMware Network Adapter VMnet1",
+            "net_connection_status": 2,
+            "net_enabled": true,
+            "network_addresses": null,
+            "permanent_address": null,
+            "physical_adapter": true,
+            "pnp_device_id": "ROOT\\VMWARE\\0000",
+            "power_management_capabilities": null,
+            "power_management_supported": false,
+            "product_name": "VMware Virtual Ethernet Adapter for VMnet1",
+            "service_name": "VMnetAdapter",
+            "speed": "100000000",
+            "status": null,
+            "status_info": null,
+            "system_name": "TSTAM-01",
+            "time_of_last_reset": "20180601095741.495407+120"
+          },
+          "counters": {
+
+          },
+          "addresses": {
+            "192.168.131.1": {
+              "prefixlen": "24",
+              "netmask": "255.255.255.0",
+              "broadcast": "192.168.131.255",
+              "family": "inet"
+            },
+            "fe80::9496:c105:88f7:c812": {
+              "prefixlen": "64",
+              "family": "inet6",
+              "scope": "Link"
+            },
+            "00:50:56:C0:00:01": {
+              "family": "lladdr"
+            }
+          },
+          "mtu": null,
+          "type": "Ethernet 802.3",
+          "arp": {
+            "192.168.131.254": "00:50:56:e2:4a:32",
+            "192.168.131.255": "ff:ff:ff:ff:ff:ff",
+            "224.0.0.22": "01:00:5e:00:00:16",
+            "224.0.0.252": "01:00:5e:00:00:fc",
+            "225.6.7.8": "01:00:5e:06:07:08",
+            "239.255.255.250": "01:00:5e:7f:ff:fa",
+            "255.255.255.255": "ff:ff:ff:ff:ff:ff"
+          },
+          "encapsulation": "Ethernet"
+        },
+        "0x7": {
+          "configuration": {
+            "ip_address": [
+              "192.168.181.1",
+              "fe80::e951:13f5:eb4d:330a"
+            ],
+            "arp_always_source_route": null,
+            "arp_use_ether_snap": null,
+            "caption": "[00000017] VMware Virtual Ethernet Adapter for VMnet8",
+            "database_path": "%SystemRoot%\\System32\\drivers\\etc",
+            "dead_gw_detect_enabled": null,
+            "default_ip_gateway": null,
+            "default_tos": null,
+            "default_ttl": null,
+            "description": "VMware Virtual Ethernet Adapter for VMnet8",
+            "dhcp_enabled": true,
+            "dhcp_lease_expires": "20180607154346.000000+120",
+            "dhcp_lease_obtained": "20180607151346.000000+120",
+            "dhcp_server": "192.168.181.254",
+            "dns_domain": null,
+            "dns_domain_suffix_search_order": [
+              "allshare.net",
+              "ads.allshare",
+              "bitlibre.net",
+              "intranet.allshare.nl",
+              "allmediabanking.local"
+            ],
+            "dns_enabled_for_wins_resolution": false,
+            "dns_host_name": "tstam-01",
+            "dns_server_search_order": null,
+            "domain_dns_registration_enabled": false,
+            "forward_buffer_memory": null,
+            "full_dns_registration_enabled": true,
+            "gateway_cost_metric": null,
+            "igmp_level": null,
+            "index": 17,
+            "interface_index": 7,
+            "ip_connection_metric": 35,
+            "ip_enabled": true,
+            "ip_filter_security_enabled": false,
+            "ip_port_security_enabled": null,
+            "ip_sec_permit_ip_protocols": [
+
+            ],
+            "ip_sec_permit_tcp_ports": [
+
+            ],
+            "ip_sec_permit_udp_ports": [
+
+            ],
+            "ip_subnet": [
+              "255.255.255.0",
+              "64"
+            ],
+            "ip_use_zero_broadcast": null,
+            "ipx_address": null,
+            "ipx_enabled": null,
+            "ipx_frame_type": null,
+            "ipx_media_type": null,
+            "ipx_network_number": null,
+            "ipx_virtual_net_number": null,
+            "keep_alive_interval": null,
+            "keep_alive_time": null,
+            "mac_address": "00:50:56:C0:00:08",
+            "mtu": null,
+            "num_forward_packets": null,
+            "pmtubh_detect_enabled": null,
+            "pmtu_discovery_enabled": null,
+            "service_name": "VMnetAdapter",
+            "setting_id": "{594CAB54-BC1D-4A57-BA39-F666DDE3855D}",
+            "tcpip_netbios_options": 0,
+            "tcp_max_connect_retransmissions": null,
+            "tcp_max_data_retransmissions": null,
+            "tcp_num_connections": null,
+            "tcp_use_rfc1122_urgent_pointer": null,
+            "tcp_window_size": null,
+            "wins_enable_lm_hosts_lookup": true,
+            "wins_host_lookup_file": null,
+            "wins_primary_server": "192.168.181.2",
+            "wins_scope_id": "",
+            "wins_secondary_server": null
+          },
+          "instance": {
+            "adapter_type": "Ethernet 802.3",
+            "adapter_type_id": 0,
+            "auto_sense": null,
+            "availability": 3,
+            "caption": "[00000017] VMware Virtual Ethernet Adapter for VMnet8",
+            "config_manager_error_code": 0,
+            "config_manager_user_config": false,
+            "description": "VMware Virtual Ethernet Adapter for VMnet8",
+            "device_id": "17",
+            "error_cleared": null,
+            "error_description": null,
+            "guid": "{594CAB54-BC1D-4A57-BA39-F666DDE3855D}",
+            "index": 17,
+            "install_date": null,
+            "installed": true,
+            "interface_index": 7,
+            "last_error_code": null,
+            "mac_address": "00:50:56:C0:00:08",
+            "manufacturer": "VMware, Inc.",
+            "max_number_controlled": 0,
+            "max_speed": null,
+            "name": "VMware Virtual Ethernet Adapter for VMnet8",
+            "net_connection_id": "VMware Network Adapter VMnet8",
+            "net_connection_status": 2,
+            "net_enabled": true,
+            "network_addresses": null,
+            "permanent_address": null,
+            "physical_adapter": true,
+            "pnp_device_id": "ROOT\\VMWARE\\0001",
+            "power_management_capabilities": null,
+            "power_management_supported": false,
+            "product_name": "VMware Virtual Ethernet Adapter for VMnet8",
+            "service_name": "VMnetAdapter",
+            "speed": "100000000",
+            "status": null,
+            "status_info": null,
+            "system_name": "TSTAM-01",
+            "time_of_last_reset": "20180601095741.495407+120"
+          },
+          "counters": {
+
+          },
+          "addresses": {
+            "192.168.181.1": {
+              "prefixlen": "24",
+              "netmask": "255.255.255.0",
+              "broadcast": "192.168.181.255",
+              "family": "inet"
+            },
+            "fe80::e951:13f5:eb4d:330a": {
+              "prefixlen": "64",
+              "family": "inet6",
+              "scope": "Link"
+            },
+            "00:50:56:C0:00:08": {
+              "family": "lladdr"
+            }
+          },
+          "mtu": null,
+          "type": "Ethernet 802.3",
+          "arp": {
+            "192.168.181.254": "00:50:56:ff:ab:d4",
+            "192.168.181.255": "ff:ff:ff:ff:ff:ff",
+            "224.0.0.22": "01:00:5e:00:00:16",
+            "224.0.0.252": "01:00:5e:00:00:fc",
+            "225.6.7.8": "01:00:5e:06:07:08",
+            "239.255.255.250": "01:00:5e:7f:ff:fa",
+            "255.255.255.255": "ff:ff:ff:ff:ff:ff"
+          },
+          "encapsulation": "Ethernet"
+        }
+      },
+      "default_gateway": "10.200.5.1",
+      "default_interface": "0x3"
+    },
+    "counters": {
+      "network": {
+
+      }
+    },
+    "ipaddress": "10.200.5.64",
+    "macaddress": "00:22:4D:89:21:14",
+    "ip6address": "fe80::6c5e:2c2c:a59f:3075",
+    "os": "windows",
+    "os_version": "10.0.15063",
+    "platform": "windows",
+    "platform_version": "10.0.15063",
+    "platform_family": "windows",
+    "uptime_seconds": 537428,
+    "uptime": "6 days 05 hours 17 minutes 08 seconds",
+    "virtualization": {
+      "systems": {
+
+      }
+    },
+    "languages": {
+      "java": {
+        "version": "1.8.0_144",
+        "runtime": {
+          "name": "Java(TM) SE Runtime Environment",
+          "build": "1.8.0_144-b01"
+        },
+        "hotspot": {
+          "name": "Java HotSpot(TM) 64-Bit Server VM",
+          "build": "25.144-b01, mixed mode"
+        }
+      },
+      "nodejs": {
+        "version": "8.9.4"
+      },
+      "perl": {
+        "version": "5.8.8",
+        "archname": "msys-64int"
+      },
+      "php": {
+        "version": "7.0.19",
+        "builddate": "May 14 2017 03:05:05",
+        "zend_engine_version": "3.0.0"
+      },
+      "powershell": {
+        "version": "5.1.15063.1088",
+        "ws_man_stack_version": "3.0",
+        "serialization_version": "1.1.0.1",
+        "clr_version": "4.0.30319.42000",
+        "build_version": "10.0.15063.1088",
+        "compatible_versions": [
+          "1.0",
+          "2.0",
+          "3.0",
+          "4.0",
+          "5.0",
+          "5.1.15063.1088"
+        ],
+        "remoting_protocol_version": "2.3"
+      },
+      "ruby": {
+        "platform": "x64-mingw32",
+        "version": "2.5.1",
+        "release_date": "2018-03-29",
+        "target": "x86_64-w64-mingw32",
+        "target_cpu": "x64",
+        "target_vendor": "w64",
+        "target_os": "mingw32",
+        "host": "x86_64-w64-mingw32",
+        "host_cpu": "x86_64",
+        "host_os": "mingw32",
+        "host_vendor": "w64",
+        "bin_dir": "C:/opscode/chefdk/embedded/bin",
+        "ruby_bin": "C:/opscode/chefdk/embedded/bin/ruby",
+        "gems_dir": "C:/opscode/chefdk/embedded/lib/ruby/gems/2.5.0",
+        "gem_bin": "C:/opscode/chefdk/embedded/bin/gem"
+      }
+    },
+    "chef_packages": {
+      "chef": {
+        "version": "14.1.12",
+        "chef_root": "C:/opscode/chefdk/embedded/lib/ruby/gems/2.5.0/gems/chef-14.1.12-universal-mingw32/lib"
+      },
+      "ohai": {
+        "version": "14.1.3",
+        "ohai_root": "C:/opscode/chefdk/embedded/lib/ruby/gems/2.5.0/gems/ohai-14.1.3/lib/ohai"
+      }
+    },
+    "dmi": {
+
+    },
+    "cloud": null,
+    "command": {
+
+    },
+    "hostname": "tstam-01",
+    "machinename": "TSTAM-01",
+    "fqdn": "tstam-01.allshare.net",
+    "domain": "allshare.net",
+    "keys": {
+      "ssh": {
+
+      }
+    },
+    "fips": {
+      "kernel": {
+        "enabled": false
+      }
+    },
+    "ohai_time": 1528377294.210853,
+    "packages": {
+      "CCleaner": {
+        "version": "5.42",
+        "publisher": "Piriform"
+      },
+      "Docker for Windows": {
+        "version": "18.03.1-ce-win64",
+        "publisher": "Docker Inc."
+      },
+      "Git version 2.14.2.3": {
+        "version": "2.14.2.3",
+        "publisher": "The Git Development Community",
+        "installdate": "20171019"
+      },
+      "Service Pack 2 for SQL Server 2014 (KB3171021) (64-bit)": {
+        "version": "12.2.5000.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180531"
+      },
+      "Hotfix 5511 for SQL Server 2014 (KB3178925) (64-bit)": {
+        "version": "12.2.5511.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180601"
+      },
+      "Hotfix 5532 for SQL Server 2014 (KB3194718) (64-bit)": {
+        "version": "12.2.5532.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180607"
+      },
+      "Hotfix 5540 for SQL Server 2014 (KB4010394) (64-bit)": {
+        "version": "12.2.5540.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180607"
+      },
+      "Microsoft Azure Compute Emulator - v2.9.5.3": {
+        "version": "2.9.8699.20",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170828"
+      },
+      "Microsoft Help Viewer 1.1": {
+        "version": "1.1.40219",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Microsoft SQL Server 2014 (64-bit)": {
+        "publisher": "Microsoft Corporation"
+      },
+      "Mozilla Firefox 60.0.1 (x64 nl)": {
+        "version": "60.0.1",
+        "publisher": "Mozilla"
+      },
+      "Mozilla Maintenance Service": {
+        "version": "55.0.3",
+        "publisher": "Mozilla"
+      },
+      "Microsoft Office 365 Business - en-us": {
+        "version": "16.0.9330.2087",
+        "publisher": "Microsoft Corporation"
+      },
+      "Microsoft Project Professional 2013": {
+        "version": "15.0.4569.1506",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180105"
+      },
+      "Microsoft Visio Professional 2016 - nl-nl": {
+        "version": "16.0.9330.2087",
+        "publisher": "Microsoft Corporation"
+      },
+      "Vulkan Run Time Libraries 1.0.42.1": {
+        "version": "1.0.42.1",
+        "publisher": "LunarG, Inc."
+      },
+      "WinRAR 5.50 (64-bit)": {
+        "version": "5.50.0",
+        "publisher": "win.rar GmbH"
+      },
+      "Microsoft .NET Core SDK - 2.1.4 (x64)": {
+        "version": "2.1.4",
+        "publisher": "Microsoft Corporation"
+      },
+      "IIS Express Application Compatibility Database for x64": {
+
+      },
+      "Microsoft Azure Authoring Tools - v2.9.5.3": {
+        "version": "2.9.8699.20",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170828"
+      },
+      "Microsoft ODBC Driver 11 for SQL Server": {
+        "version": "12.2.5540.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180607"
+      },
+      "DiagnosticsHub_CollectionService": {
+        "version": "15.7.27520",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180511"
+      },
+      "Microsoft SQL Server 2014 Transact-SQL Compiler Service ": {
+        "version": "12.2.5540.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180607"
+      },
+      "Microsoft SQL Server 2012 Native Client ": {
+        "version": "11.3.6518.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170828"
+      },
+      "SQL Server 2014 Database Engine Services": {
+        "version": "12.2.5000.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180531"
+      },
+      "Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219": {
+        "version": "10.0.40219",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Microsoft .NET Core 1.0.6 - Host FX Resolver (x64)": {
+        "version": "4.1.21306",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170828"
+      },
+      "Microsoft .NET Core SDK - 2.0.2 (x64)": {
+        "version": "2.0.2",
+        "publisher": "Microsoft Corporation"
+      },
+      "Microsoft SQL Server 2016 Management Objects  (x64)": {
+        "version": "13.0.1601.5",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Java 8 Update 144 (64-bit)": {
+        "version": "8.0.1440.1",
+        "publisher": "Oracle Corporation",
+        "installdate": "20171010"
+      },
+      "Intel® Hardware Accelerated Execution Manager": {
+        "version": "6.0.5",
+        "publisher": "Intel Corporation",
+        "installdate": "20170828"
+      },
+      "Microsoft SQL Server 2014 RsFx Driver": {
+        "version": "12.2.5000.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180531"
+      },
+      "Microsoft .NET Core SDK - 2.1.103 (x64)": {
+        "version": "2.1.103",
+        "publisher": "Microsoft Corporation"
+      },
+      "Microsoft .NET Core Host - 2.0.3 (x64)": {
+        "version": "16.12.25816",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20171214"
+      },
+      "SQL Server 2014 Client Tools": {
+        "version": "12.2.5000.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180607"
+      },
+      "Microsoft .NET Core Host FX Resolver - 2.0.7 (x64)": {
+        "version": "16.28.26407",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180511"
+      },
+      "Microsoft Visual Studio 2015 Update 3 Diagnostic Tools - amd64": {
+        "version": "14.0.25420",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.60610": {
+        "version": "11.0.60610",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Microsoft .NET Core Host - 2.0.5 (x64)": {
+        "version": "16.20.26021",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180111"
+      },
+      "Microsoft Build Tools Language Resources 14.0 (amd64)": {
+        "version": "14.0.25420",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "VMware Workstation": {
+        "version": "14.1.2",
+        "publisher": "VMware, Inc.",
+        "installdate": "20180531"
+      },
+      "Microsoft VSS Writer for SQL Server 2014": {
+        "version": "12.2.5000.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180607"
+      },
+      "Microsoft .NET Core 1.1.3 - Host (x64)": {
+        "version": "4.16.1560",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170828"
+      },
+      "Microsoft Visual Studio 2015 Performance Collection Tools - ENU": {
+        "version": "14.0.23107",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Microsoft Azure PowerShell - April 2018": {
+        "version": "5.7.0.18831",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180511"
+      },
+      "Microsoft Visual C++ 2015 x64 Debug Runtime - 14.0.24215": {
+        "version": "14.0.24215",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Microsoft .NET Core SDK - 2.1.2 (x64)": {
+        "version": "2.1.2",
+        "publisher": "Microsoft Corporation"
+      },
+      "Java(TM) SE Development Kit 9 (64-bit)": {
+        "version": "9.0.0.0",
+        "publisher": "Oracle Corporation",
+        "installdate": "20171010"
+      },
+      "Node.js": {
+        "version": "8.9.4",
+        "publisher": "Node.js Foundation",
+        "installdate": "20180112"
+      },
+      "Microsoft .NET Core Host - 2.0.7 (x64)": {
+        "version": "16.28.26407",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180511"
+      },
+      "Microsoft SQL Server 2014 Setup (English)": {
+        "version": "12.2.5540.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180607"
+      },
+      "Windows SDK for Windows Store Apps DirectX x64 Remote": {
+        "version": "10.1.16299.15",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180503"
+      },
+      "VS Script Debugging Common": {
+        "version": "16.0.94.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180511"
+      },
+      "VS JIT Debugger": {
+        "version": "16.0.94.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180511"
+      },
+      "IIS 10.0 Express": {
+        "version": "10.0.1743",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180511"
+      },
+      "Microsoft Visual Studio Team Foundation Server 2015 Update 3 CTP1 Storyboarding (x64)": {
+        "version": "14.98.25331",
+        "publisher": "Microsoft",
+        "installdate": "20180524"
+      },
+      "Windows Software Development Kit DirectX x64 Remote": {
+        "version": "8.100.25984",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Active Directory Authentication Library for SQL Server": {
+        "version": "13.1.4001.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170828"
+      },
+      "Microsoft Visual Studio 2015 VsGraphics Helper Dependencies": {
+        "version": "14.0.23107",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Microsoft .NET Core Runtime - 2.0.7 (x64)": {
+        "version": "16.28.26407",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180511"
+      },
+      "Microsoft Visual Studio Team Foundation Server 2017 RC Office Integration Language Pack (x64) - ENU": {
+        "version": "15.129.27701",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180511"
+      },
+      "VS WCF Debugging": {
+        "version": "16.0.94.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180511"
+      },
+      "IntelliTraceProfilerProxy": {
+        "version": "15.0.17289.01",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180316"
+      },
+      "Visual C++ IDE x64 Package": {
+        "version": "14.0.25420",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Microsoft SQL Server 2008 Setup Support Files ": {
+        "version": "10.3.5500.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180525"
+      },
+      "Application Verifier x64 External Package": {
+        "version": "10.1.16299.15",
+        "publisher": "Microsoft",
+        "installdate": "20180503"
+      },
+      "Microsoft Visual Studio 2015 Diagnostic Tools - amd64": {
+        "version": "14.0.23107",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Sql Server Customer Experience Improvement Program": {
+        "version": "12.2.5000.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180531"
+      },
+      "Microsoft Visual Studio Team Foundation Server 2015 Update 3 CTP1 Office Integration (x64)": {
+        "version": "14.98.25331",
+        "publisher": "Microsoft",
+        "installdate": "20180524"
+      },
+      "Java SE Development Kit 8 Update 131 (64-bit)": {
+        "version": "8.0.1310.11",
+        "publisher": "Oracle Corporation",
+        "installdate": "20170828"
+      },
+      "Java SE Development Kit 8 Update 144 (64-bit)": {
+        "version": "8.0.1440.1",
+        "publisher": "Oracle Corporation",
+        "installdate": "20171010"
+      },
+      "Java SE Development Kit 8 Update 152 (64-bit)": {
+        "version": "8.0.1520.16",
+        "publisher": "Oracle Corporation",
+        "installdate": "20171214"
+      },
+      "Java SE Development Kit 8 Update 161 (64-bit)": {
+        "version": "8.0.1610.12",
+        "publisher": "Oracle Corporation",
+        "installdate": "20180201"
+      },
+      "Microsoft System CLR Types for SQL Server 2014 (x64)": {
+        "version": "12.2.5000.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180531"
+      },
+      "Visual Studio 2010 Prerequisites - English": {
+        "version": "10.0.40219",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Windows SDK DirectX x64 Remote": {
+        "version": "10.1.17134.12",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180511"
+      },
+      "Microsoft Visual Studio Installer": {
+        "version": "1.16.1247.518",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20171102"
+      },
+      "Microsoft .NET Core 1.0.5 - Runtime (x64)": {
+        "version": "1.0.5",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170828"
+      },
+      "SQL Server 2014 Management Studio": {
+        "version": "12.2.5000.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180531"
+      },
+      "Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.60610": {
+        "version": "11.0.60610",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Microsoft .NET Core Runtime - 2.0.5 (x64)": {
+        "version": "16.20.26021",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180111"
+      },
+      "Microsoft SQL Server Compact 4.0 SP1 x64 ENU": {
+        "version": "4.0.8876.1",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Microsoft Build Tools 14.0 (amd64)": {
+        "version": "14.0.25420",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Microsoft .NET Core Host FX Resolver - 2.0.3 (x64)": {
+        "version": "16.12.25816",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20171214"
+      },
+      "Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.17": {
+        "version": "9.0.30729",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170919"
+      },
+      "Visual Studio 2015 Prerequisites - ENU Language Pack": {
+        "version": "14.0.23107",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Microsoft Visual Studio 2015 Update 3 IntelliTrace (x64)": {
+        "version": "14.0.25431",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Microsoft Silverlight": {
+        "version": "5.1.50907.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Microsoft .NET Core Host - 2.0.6 (x64)": {
+        "version": "16.24.26212",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180316"
+      },
+      "Microsoft Web Deploy 4.0": {
+        "version": "10.0.1992",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180511"
+      },
+      "Microsoft .NET Core SDK - 2.1.201 (x64)": {
+        "version": "2.1.201",
+        "publisher": "Microsoft Corporation"
+      },
+      "Microsoft Office Korrekturhilfen 2013 - Deutsch": {
+        "version": "15.0.4569.1506",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180105"
+      },
+      "Update for Microsoft Office 2013 (KB3172510) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2013 (KB3039720) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Microsoft Office Proofing Tools 2013 - English": {
+        "version": "15.0.4569.1506",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180105"
+      },
+      "Outils de vérification linguistique 2013 de Microsoft Office - Français": {
+        "version": "15.0.4569.1506",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180105"
+      },
+      "Microsoft Office Proofing Tools 2013 - Nederlands": {
+        "version": "15.0.4569.1506",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180105"
+      },
+      "Microsoft Office Proofing (Dutch) 2013": {
+        "version": "15.0.4569.1506",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170904"
+      },
+      "Microsoft Office Shared MUI (Dutch) 2013": {
+        "version": "15.0.4569.1506",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180105"
+      },
+      "Security Update for Microsoft Office 2013 (KB3213564) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Security Update for Microsoft Office 2013 (KB3172524) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Security Update for Microsoft Office 2013 (KB3162047) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Visio Viewer 2013 (KB2817301) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2013 (KB3023052) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2013 (KB3039750) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft InfoPath 2013 (KB3114946) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2013 (KB4011279) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2013 (KB4011106) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Microsoft Project MUI (Dutch) 2013": {
+        "version": "15.0.4569.1506",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180105"
+      },
+      "Update for Microsoft Project 2013 (KB4011640) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Microsoft Office 32-bit Components 2013": {
+        "version": "15.0.4569.1506",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180105"
+      },
+      "Update for Microsoft Office 2013 (KB3172545) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft OneNote 2013 (KB4011075) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Security Update for Microsoft Office 2013 (KB3039798) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Publisher 2013 (KB3114329) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft OneDrive for Business (KB3178645) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Security Update for Microsoft Word 2013 (KB4011590) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Skype for Business 2015 (KB4011638) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Excel 2013 (KB4011597) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2013 (KB3172533) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft PowerPoint 2013 (KB4011635) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Access 2013 (KB3172543) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Microsoft Office Shared 32-bit MUI (Dutch) 2013": {
+        "version": "15.0.4569.1506",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20171218"
+      },
+      "Microsoft Office OSM MUI (Dutch) 2013": {
+        "version": "15.0.4569.1506",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170904"
+      },
+      "Office 16 Click-to-Run Licensing Component": {
+        "version": "16.0.9330.2087",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180601"
+      },
+      "Office 16 Click-to-Run Extensibility Component": {
+        "version": "16.0.9330.2087",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180601"
+      },
+      "Office 16 Click-to-Run Localization Component": {
+        "version": "16.0.9330.2087",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180601"
+      },
+      "Microsoft SQL Server 2016 LocalDB ": {
+        "version": "13.1.4001.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170828"
+      },
+      "Update for Microsoft Office 2013 (KB3114499) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2013 (KB3085565) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2013 (KB3114488) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2013 (KB3101503) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Security Update for Microsoft Office 2013 (KB2760272) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Definition Update for Microsoft Office 2013 (KB3115404) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2013 (KB3039778) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Security Update for Microsoft Office 2013 (KB3172531) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2013 (KB3023049) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2013 (KB3039766) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2013 (KB3039701) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2013 (KB4011087) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2013 (KB2899522) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2013 (KB3172443) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2013 (KB3085587) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Outlook 2013 (KB4011282) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2013 (KB3172523) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Security Update for Microsoft Office 2013 (KB3054816) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Security Update for Microsoft Office 2013 (KB4011277) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2013 (KB3114825) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2013 (KB2760344) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2013 (KB3055007) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Microsoft SQL Server 2012 Command Line Utilities ": {
+        "version": "11.3.6020.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170828"
+      },
+      "Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.21005": {
+        "version": "12.0.21005",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170828"
+      },
+      "Microsoft ASP.NET Core 2.0.8 Runtime Package Store (x64)": {
+        "version": "2.0.12824.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180511"
+      },
+      "Microsoft System CLR Types for SQL Server 2016": {
+        "version": "13.0.1601.5",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Windows Software Development Kit for Windows Store Apps DirectX x64 Remote": {
+        "version": "8.100.26936",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Microsoft .NET Core SDK - 2.1.104 (x64)": {
+        "version": "2.1.104",
+        "publisher": "Microsoft Corporation"
+      },
+      "Microsoft Visual C++ 2017 x64 Additional Runtime - 14.14.26405": {
+        "version": "14.14.26405",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.21005": {
+        "version": "12.0.21005",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170828"
+      },
+      "Microsoft .NET Core Host FX Resolver - 2.0.6 (x64)": {
+        "version": "16.24.26212",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180316"
+      },
+      "SQL Server 2014 Database Engine Shared": {
+        "version": "12.2.5000.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180531"
+      },
+      "IIS Express Application Compatibility Database for x86": {
+
+      },
+      "Ansel": {
+        "version": "382.05",
+        "publisher": "NVIDIA Corporation",
+        "installdate": "20170824"
+      },
+      "NVIDIA 3D Vision Driver 382.05": {
+        "version": "382.05",
+        "publisher": "NVIDIA Corporation",
+        "installdate": "20170824"
+      },
+      "NVIDIA Control Panel 382.05": {
+        "version": "382.05",
+        "publisher": "NVIDIA Corporation",
+        "installdate": "20170824"
+      },
+      "NVIDIA Graphics Driver 382.05": {
+        "version": "382.05",
+        "publisher": "NVIDIA Corporation",
+        "installdate": "20170824"
+      },
+      "NVIDIA Install Application": {
+        "version": "2.1002.247.2107",
+        "publisher": "NVIDIA Corporation",
+        "installdate": "20170824"
+      },
+      "NVIDIA Display Container": {
+        "version": "1.2",
+        "publisher": "NVIDIA Corporation",
+        "installdate": "20170824"
+      },
+      "NVIDIA Display Container LS": {
+        "version": "1.2",
+        "publisher": "NVIDIA Corporation",
+        "installdate": "20170824"
+      },
+      "NVIDIA Display Watchdog Plugin": {
+        "version": "1.2",
+        "publisher": "NVIDIA Corporation",
+        "installdate": "20170824"
+      },
+      "NVIDIA Display Session Container": {
+        "version": "1.2",
+        "publisher": "NVIDIA Corporation",
+        "installdate": "20170824"
+      },
+      "Microsoft Visual Studio Team Foundation Server 2017 RC Office Integration (x64)": {
+        "version": "15.129.27701",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180511"
+      },
+      "Microsoft Visual Studio Team Foundation Server 2015 Update 3 CTP1 Storyboarding Language Pack (x64) - ENU": {
+        "version": "14.98.25331",
+        "publisher": "Microsoft",
+        "installdate": "20180524"
+      },
+      "Universal CRT Tools x64": {
+        "version": "10.1.17134.12",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180511"
+      },
+      "Microsoft Visual C++ 2017 x64 Minimum Runtime - 14.14.26405": {
+        "version": "14.14.26405",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "SQL Server 2014 Common Files": {
+        "version": "12.2.5000.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180607"
+      },
+      "Microsoft .NET Core Runtime - 2.0.0 (x64)": {
+        "version": "16.0.25521",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20171102"
+      },
+      "Microsoft .NET Core 1.1.2 - Runtime (x64)": {
+        "version": "1.1.2",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170828"
+      },
+      "Chef Development Kit v3.0.36": {
+        "version": "3.0.36.1",
+        "publisher": "Chef Software, Inc.",
+        "installdate": "20180531"
+      },
+      "Microsoft .NET Version Manager (x64) 1.0.0-beta5": {
+        "version": "1.0.10609.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Microsoft Azure Libraries for .NET – v2.9": {
+        "version": "3.0.0127.060",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170828"
+      },
+      "Microsoft .NET Core 1.1.3 - Host FX Resolver (x64)": {
+        "version": "4.16.34328",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170828"
+      },
+      "icecap_collection_x64": {
+        "version": "15.6.27413",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180316"
+      },
+      "Microsoft .NET Core Host - 2.0.0 (x64)": {
+        "version": "16.0.25521",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20171102"
+      },
+      "Microsoft SQL Server 2016 T-SQL ScriptDom ": {
+        "version": "13.0.1601.5",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Microsoft .NET Core Runtime - 2.0.6 (x64)": {
+        "version": "16.24.26212",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180316"
+      },
+      "Microsoft .NET Core Host FX Resolver - 2.0.5 (x64)": {
+        "version": "16.20.26021",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180111"
+      },
+      "Microsoft ASP.NET Core Module for IIS Express": {
+        "version": "2.1.1991",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180511"
+      },
+      "Visual Studio 2015 Prerequisites": {
+        "version": "14.0.23107",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      ".NET Core SDK 1.1.0 (x64)": {
+        "version": "1.1.0",
+        "publisher": "Microsoft Corporation"
+      },
+      "Microsoft SQL Server 2014 Transact-SQL ScriptDom ": {
+        "version": "12.2.5000.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180531"
+      },
+      "Windows App Certification Kit Native Components": {
+        "version": "10.1.17134.12",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180511"
+      },
+      "Microsoft .NET Core SDK - 2.1.200 (x64)": {
+        "version": "2.1.200",
+        "publisher": "Microsoft Corporation"
+      },
+      "Microsoft System CLR Types for SQL Server 2017": {
+        "version": "14.0.3006.16",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180316"
+      },
+      "Microsoft .NET Core Host FX Resolver - 2.0.0 (x64)": {
+        "version": "16.0.25521",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20171102"
+      },
+      "Microsoft Visual Studio Team Foundation Server 2015 Update 3 CTP1 Office Integration Language Pack (x64) - ENU": {
+        "version": "14.98.25331",
+        "publisher": "Microsoft",
+        "installdate": "20180524"
+      },
+      "Microsoft .NET Core SDK - 2.1.101 (x64)": {
+        "version": "2.1.101",
+        "publisher": "Microsoft Corporation"
+      },
+      "Microsoft .NET Core Runtime - 2.0.3 (x64)": {
+        "version": "16.12.25816",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20171214"
+      },
+      "Microsoft Visual Studio 2015 Performance Collection Tools": {
+        "version": "14.0.23107",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Microsoft .NET Core 1.0.6 - Host (x64)": {
+        "version": "4.0.21306",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170828"
+      },
+      "Syncfusion Essential Studio Documentation Version 15.3.0.26": {
+        "publisher": "Syncfusion, Inc.",
+        "installdate": "20171002"
+      },
+      "Visual Studio Enterprise 2017": {
+        "version": "15.7.27703.2018",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170828"
+      },
+      "Android SDK Tools": {
+        "version": "1.16",
+        "publisher": "Google Inc."
+      },
+      "Axure RP 8": {
+        "version": "8.0.0.3355",
+        "publisher": "Axure Software Solutions, Inc.",
+        "installdate": "20170926"
+      },
+      "Git version 2.13.2": {
+        "version": "2.13.2",
+        "publisher": "The Git Development Community",
+        "installdate": "20180330"
+      },
+      "Google Chrome": {
+        "version": "66.0.3359.181",
+        "publisher": "Google Inc.",
+        "installdate": "20180426"
+      },
+      "Kaspersky Security Center 10 Network Agent": {
+        "version": "10.3.407",
+        "publisher": "AO Kaspersky Lab",
+        "installdate": "20171011"
+      },
+      "Microsoft Azure Storage Emulator - v5.4": {
+        "version": "5.4.1811.0037",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180316"
+      },
+      "Microsoft Help Viewer 2.2": {
+        "version": "2.2.25420",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Microsoft Help Viewer 2.3": {
+        "version": "2.3.27617",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180511"
+      },
+      "Notepad++ (32-bit x86)": {
+        "version": "7.5.1",
+        "publisher": "Notepad++ Team"
+      },
+      "NVIDIA Stereoscopic 3D Driver": {
+        "version": "7.17.13.7500",
+        "publisher": "NVIDIA Corporation"
+      },
+      "TeamViewer 13": {
+        "version": "13.0.6447",
+        "publisher": "TeamViewer"
+      },
+      "Windows SDK Desktop Libs arm64": {
+        "version": "10.1.16299.15",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180503"
+      },
+      "Microsoft Visual Studio 2015 Update 3 IntelliTrace (x86)": {
+        "version": "14.0.25431",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Windows SDK Desktop Libs x86": {
+        "version": "10.1.16299.15",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180503"
+      },
+      "Visual C++ Library PGO X86 Package": {
+        "version": "14.0.24210",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Microsoft Visual Studio 2015 Shell (Minimum)": {
+        "version": "14.0.23107",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Microsoft .NET Framework 4.6 Targeting Pack (ENU)": {
+        "version": "4.6.00127",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Windows IoT Extension SDK": {
+        "version": "10.1.16299.15",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180503"
+      },
+      "Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501": {
+        "version": "12.0.30501.0",
+        "publisher": "Microsoft Corporation"
+      },
+      "vs_cuitcommoncoremsi": {
+        "version": "15.0.27005",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20171214"
+      },
+      "icecap_collectionresources": {
+        "version": "15.6.27406",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180316"
+      },
+      "Windows SDK for Windows Store Apps Headers": {
+        "version": "10.1.17134.12",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180511"
+      },
+      "Visual C++ Library CRT Desktop Appx Package": {
+        "version": "14.14.26428",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180511"
+      },
+      "Microsoft System CLR Types for SQL Server 2014": {
+        "version": "12.0.2402.29",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "WCF Data Services Tools for Microsoft Visual Studio 2015": {
+        "version": "5.6.62175.4",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Blend for Visual Studio SDK for Silverlight 5": {
+        "version": "3.0.40218.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Universal CRT Headers Libraries and Sources": {
+        "version": "10.1.16299.15",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180503"
+      },
+      "Microsoft Visual Studio 2015 Update 3 Diagnostic Tools - ENU": {
+        "version": "14.0.25420",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Application Insights Tools for Visual Studio 2015": {
+        "version": "7.0.20622.1",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Microsoft SQL Server 2016 Management Objects ": {
+        "version": "13.0.1601.5",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Visual C++ IDE Core Professional Plus Resource Package": {
+        "version": "14.0.25420",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Windows SDK for Windows Store Apps Libs": {
+        "version": "10.1.16299.15",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180503"
+      },
+      "Microsoft Azure Mobile Services Connected Service": {
+        "version": "14.0.25420",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "VS Immersive Activate Helper": {
+        "version": "16.0.94.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180511"
+      },
+      "MSBuild/NuGet Integration 14.0 (x86)": {
+        "version": "14.0.25420",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Microsoft Visual Studio Professional 2015": {
+        "version": "14.0.23107",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "icecap_collection_neutral": {
+        "version": "15.6.27413",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180316"
+      },
+      "Multi-Device Hybrid Apps using C# - Templates - ENU": {
+        "version": "14.0.23107",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.21005": {
+        "version": "12.0.21005",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170828"
+      },
+      "Microsoft .NET Native SDK": {
+        "version": "15.0.24211",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170828"
+      },
+      "Microsoft Visual Studio Enterprise 2015": {
+        "version": "14.0.23107",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Microsoft VisualStudio JavaScript Project System": {
+        "version": "14.0.25527",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "vcpp_crt.redist.clickonce": {
+        "version": "14.14.26405",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180511"
+      },
+      "Microsoft Visual Studio 2015 Shell (Minimum) Interop Assemblies": {
+        "version": "14.0.25420",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      " Tools for .Net 3.5": {
+        "version": "3.11.50727",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Microsoft Visual Studio 2015 Devenv Resources": {
+        "version": "14.0.23107",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Windows SDK EULA": {
+        "version": "10.1.16299.15",
+        "publisher": "Microsoft Corporations",
+        "installdate": "20180503"
+      },
+      "vs_cuitextensionmsi_x64": {
+        "version": "15.0.27005",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20171214"
+      },
+      "Universal CRT Extension SDK": {
+        "version": "10.1.16299.15",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180503"
+      },
+      "Microsoft .NET Framework 4.5.1 SDK": {
+        "version": "4.5.51641",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Microsoft .NET Framework 4.5.2 Multi-Targeting Pack": {
+        "version": "4.5.51651",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170828"
+      },
+      "vs_tipsmsi": {
+        "version": "15.0.27005",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20171214"
+      },
+      "Microsoft SQL Server 2014 Policies ": {
+        "version": "12.0.2000.8",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180525"
+      },
+      "Windows SDK for Windows Store Apps DirectX x86 Remote": {
+        "version": "10.1.17134.12",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180511"
+      },
+      "MSI Development Tools": {
+        "version": "10.1.16299.15",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180503"
+      },
+      "AzureTools.Notifications": {
+        "version": "2.7.30611.1601",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Windows SDK Desktop Libs arm": {
+        "version": "10.1.17134.12",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180511"
+      },
+      "Windows SDK Desktop Headers x64": {
+        "version": "10.1.17134.12",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180511"
+      },
+      "Prerequisites for SSDT ": {
+        "version": "13.0.1601.5",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Windows SDK for Windows Store Apps Contracts": {
+        "version": "10.1.16299.15",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180503"
+      },
+      "Xamarin Profiler": {
+        "version": "1.6.2.162",
+        "publisher": "Xamarin, Inc.",
+        "installdate": "20180511"
+      },
+      "Microsoft Visual Studio 2015 XAML Application Timeline": {
+        "version": "14.0.25431",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Windows SDK Desktop Tools x86": {
+        "version": "10.1.16299.15",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180503"
+      },
+      "Microsoft .NET Framework Cumulative Intellisense Pack for Visual Studio (ENU)": {
+        "version": "4.7.02558",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20171214"
+      },
+      "Windows SDK Desktop Tools arm64": {
+        "version": "10.1.16299.15",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180503"
+      },
+      "Microsoft .NET Framework 4.5.2 Multi-Targeting Pack (ENU)": {
+        "version": "4.5.51209",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Entity Framework 6.1.3 Tools  for Visual Studio 2015 Update 1": {
+        "version": "14.0.41103.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Microsoft Visual C++ 2017 x86 Additional Runtime - 14.14.26405": {
+        "version": "14.14.26405",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Microsoft .NET Framework 4.6 Targeting Pack": {
+        "version": "4.6.00081",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170828"
+      },
+      "Microsoft NuGet - Visual Studio 2015": {
+        "version": "3.4.4.1321",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Microsoft .NET Framework 4.6.1 SDK": {
+        "version": "4.6.01055",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170828"
+      },
+      "Visual C++ IDE Base Package": {
+        "version": "14.0.25431",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Microsoft.VisualStudio.Office365": {
+        "version": "1.6.2.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "SQL Server Browser for SQL Server 2014": {
+        "version": "12.2.5000.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180531"
+      },
+      "Microsoft SQL Server 2008 R2 ADOMD.NET": {
+        "version": "10.50.1600.1",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170919"
+      },
+      "Microsoft Report Viewer 2014 Runtime": {
+        "version": "12.0.2000.8",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180525"
+      },
+      "Java SE Development Kit 8 Update 131": {
+        "version": "8.0.1310.11",
+        "publisher": "Oracle Corporation",
+        "installdate": "20170828"
+      },
+      "Java SE Development Kit 8 Update 152": {
+        "version": "8.0.1520.16",
+        "publisher": "Oracle Corporation",
+        "installdate": "20171214"
+      },
+      "Java SE Development Kit 8 Update 161": {
+        "version": "8.0.1610.12",
+        "publisher": "Oracle Corporation",
+        "installdate": "20180201"
+      },
+      "SDK ARM Additions": {
+        "version": "10.1.17134.12",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180511"
+      },
+      "Visual C++ MSBuild Base Package": {
+        "version": "14.0.25420",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Microsoft Visual Studio 2015 Update 3 Diagnostic Tools - x86": {
+        "version": "14.0.25420",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Windows SDK Desktop Headers arm64": {
+        "version": "10.1.16299.15",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180503"
+      },
+      "WinRT Intellisense Mobile - en-us": {
+        "version": "10.1.16299.15",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180503"
+      },
+      "Blend for Visual Studio SDK for .NET 4.5": {
+        "version": "3.0.40218.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "WinRT Intellisense Desktop - en-us": {
+        "version": "10.1.17134.12",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180511"
+      },
+      "Windows SDK for Windows Store Apps Tools": {
+        "version": "10.1.16299.15",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180503"
+      },
+      "Windows SDK Facade Windows WinMD Versioned": {
+        "version": "10.1.16299.15",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180503"
+      },
+      "Microsoft SQL Server Compact 3.5 SP2 ENU": {
+        "version": "3.5.8080.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170919"
+      },
+      "Windows Team Extension SDK": {
+        "version": "10.1.17134.12",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180511"
+      },
+      "Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.60610": {
+        "version": "11.0.60610",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Microsoft .NET CoreRuntime SDK": {
+        "version": "1.1.25915.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180316"
+      },
+      "Microsoft ASP.Net Web Frameworks 5.0 Security Update (KB2992080)": {
+        "version": "5.0.20821",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20171002"
+      },
+      "Windows SDK Signing Tools": {
+        "version": "10.1.17134.12",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180511"
+      },
+      "vs_communitymsires": {
+        "version": "15.0.26621",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170828"
+      },
+      "WinRT Intellisense UAP - en-us": {
+        "version": "10.1.16299.15",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180503"
+      },
+      "Microsoft Visual Studio 2015 Windows Diagnostic Tools": {
+        "version": "14.0.25431",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Windows Espc Package": {
+        "version": "14.0.23107",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Microsoft VisualStudio JavaScript Language Service": {
+        "version": "14.0.25527",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "PreEmptive Analytics Visual Studio Components": {
+        "version": "1.2.5134.1",
+        "publisher": "PreEmptive Solutions",
+        "installdate": "20180524"
+      },
+      "vs_codeduitestframeworkmsi": {
+        "version": "15.0.27005",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20171214"
+      },
+      "Windows Phone SDK 8.0 Assemblies for Visual Studio 2015": {
+        "version": "14.0.25123",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Windows SDK ARM Desktop Tools": {
+        "version": "10.1.16299.15",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180503"
+      },
+      "Microsoft ASP.NET MVC 4 - Visual Studio 2015 - ENU": {
+        "version": "4.1.41102.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Windows Desktop Extension SDK Contracts": {
+        "version": "10.1.17134.12",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180511"
+      },
+      "SQL Server 2008 R2 Analysis Services OLE DB Provider": {
+        "version": "10.50.1600.1",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170919"
+      },
+      "Windows SDK for Windows Store Managed Apps Libs": {
+        "version": "10.1.17134.12",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180511"
+      },
+      "Windows SDK Desktop Headers x86": {
+        "version": "10.1.17134.12",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180511"
+      },
+      "Microsoft .NET Framework 4.6.1 Developer Pack": {
+        "version": "4.6.1055",
+        "publisher": "Microsoft Corporation"
+      },
+      "TypeScript Power Tool": {
+        "version": "1.8.34.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Microsoft .NET CoreRuntime For CoreCon": {
+        "version": "1.0.0.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170828"
+      },
+      "Microsoft Visual Studio Professional 2015 - ENU": {
+        "version": "14.0.23107",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Java Auto Updater": {
+        "version": "9.0.0.0",
+        "publisher": "Oracle Corporation",
+        "installdate": "20171009"
+      },
+      "Microsoft Visual Studio 2015 Profiling Tools": {
+        "version": "14.0.25123",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Microsoft SQL Server Data Tools - enu (14.0.60519.0)": {
+        "version": "14.0.60519.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "icecap_collectionresourcesx64": {
+        "version": "15.6.27406",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180316"
+      },
+      "Windows SDK Modern Versioned Developer Tools": {
+        "version": "10.1.16299.15",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180503"
+      },
+      "Windows Mobile Extension SDK": {
+        "version": "10.1.16299.15",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180503"
+      },
+      "Microsoft Build Tools Language Resources 14.0 (x86)": {
+        "version": "14.0.25420",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Visual C++ MSBuild ARM Package": {
+        "version": "14.0.25420",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Windows Simulator": {
+        "version": "15.0.26621",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170828"
+      },
+      "Microsoft Azure Mobile Services Tools for Visual Studio - v1.4": {
+        "version": "1.4.30611.1601",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Windows Software Development Kit for Windows Store Apps DirectX x86 Remote": {
+        "version": "8.100.26936",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Microsoft .NET Framework 4.5 Multi-Targeting Pack": {
+        "version": "4.5.50710",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170828"
+      },
+      "vs_SQLClickOnceBootstrappermsi": {
+        "version": "15.0.27005",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20171214"
+      },
+      "Windows IoT Extension SDK Contracts": {
+        "version": "10.1.17134.12",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180511"
+      },
+      "WinAppDeploy": {
+        "version": "10.1.16299.15",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180503"
+      },
+      "Microsoft Visual C++ 2017 Redistributable (x64) - 14.14.26405": {
+        "version": "14.14.26405.0",
+        "publisher": "Microsoft Corporation"
+      },
+      "Microsoft Visual Studio Community 2015 - ENU": {
+        "version": "14.0.23107",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "WCF RIA Services V1.0 SP2": {
+        "version": "4.1.62812.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Microsoft Visual C++ 2010  x86 Runtime - 10.0.40219": {
+        "version": "10.0.40219",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "vs_communitymsi": {
+        "version": "15.7.27617",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180511"
+      },
+      "WinRT Intellisense PPI - en-us": {
+        "version": "10.1.17134.12",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180511"
+      },
+      "Xamarin PCL Profiles v1.0.9": {
+        "version": "1.0.9.0",
+        "publisher": "Xamarin",
+        "installdate": "20170828"
+      },
+      "Microsoft Visual Studio 2015 Update 3 IntelliTrace Front End": {
+        "version": "14.0.25431",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Microsoft .NET Framework 4.6.2 SDK": {
+        "version": "4.6.01590",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Windows Software Development Kit - Windows 10.0.17134.12": {
+        "version": "10.1.17134.12",
+        "publisher": "Microsoft Corporation"
+      },
+      "Dotfuscator and Analytics Community Edition 5.22.0": {
+        "version": "5.22.0.3788",
+        "publisher": "PreEmptive Solutions",
+        "installdate": "20180524"
+      },
+      "Microsoft ASP.NET and Web Tools 2015.1 (Beta8) - Visual Studio 2015": {
+        "version": "14.1.11107.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Google Update Helper": {
+        "version": "1.3.21.169",
+        "publisher": "Google Inc.",
+        "installdate": "20180426"
+      },
+      "Windows Software Development Kit - Windows 10.0.16299.15": {
+        "version": "10.1.16299.15",
+        "publisher": "Microsoft Corporation"
+      },
+      "Syncfusion Essential Studio for Xamarin": {
+        "version": "15.3.0.33",
+        "publisher": "Syncfusion",
+        "installdate": "20171002"
+      },
+      "Visual C++ Compiler/Tools X86 Base Resource Package": {
+        "version": "14.0.24210",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "e5 Secure Download Manager": {
+        "version": "3.2.259.0",
+        "publisher": "Kivuto Solutions Inc.",
+        "installdate": "20170831"
+      },
+      "Visual C++ Library CRT Appx Package": {
+        "version": "14.14.26428",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180511"
+      },
+      "Microsoft Visual C++ 2017 x86 Minimum Runtime - 14.14.26405": {
+        "version": "14.14.26405",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Microsoft ASP.NET Web Pages 2 - Visual Studio 2015 - ENU": {
+        "version": "4.1.41102.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Microsoft Visual Studio 2015 Preparation": {
+        "version": "14.0.23107",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Windows Desktop Extension SDK": {
+        "version": "10.1.16299.15",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180503"
+      },
+      "Microsoft Visual Studio Premium 2015": {
+        "version": "14.0.23107",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "vs_networkemulationmsi_x64": {
+        "version": "15.0.27005",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20171214"
+      },
+      "Microsoft Visual Studio 2015 SDK - ENU": {
+        "version": "14.0.23107",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Roslyn Language Services - x86": {
+        "version": "14.0.23107",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Microsoft .NET Framework 4.5.1 Multi-Targeting Pack": {
+        "version": "4.5.50932",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170828"
+      },
+      "vs_clickoncesigntoolmsi": {
+        "version": "15.0.27005",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20171214"
+      },
+      "TypeScript SDK": {
+        "version": "2.8.4.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Microsoft Build Tools 14.0 (x86)": {
+        "version": "14.0.25420",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "vs_minshellmsires": {
+        "version": "15.0.26621",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170828"
+      },
+      "vs_enterprisemsi": {
+        "version": "15.0.26621",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170828"
+      },
+      "Universal CRT Tools x86": {
+        "version": "10.1.17134.12",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180511"
+      },
+      "Windows SDK for Windows Store Apps Metadata": {
+        "version": "10.1.16299.15",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180503"
+      },
+      "Kits Configuration Installer": {
+        "version": "10.1.17134.12",
+        "publisher": "Microsoft",
+        "installdate": "20180511"
+      },
+      "WinRT Intellisense IoT - en-us": {
+        "version": "10.1.17134.12",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180511"
+      },
+      "Microsoft NetStandard SDK": {
+        "version": "15.0.51105",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170828"
+      },
+      "Microsoft TestPlatform SDK Local Feed": {
+        "version": "15.7.0.1550004",
+        "publisher": "Microsoft",
+        "installdate": "20180511"
+      },
+      "Windows SDK": {
+        "version": "10.1.17134.12",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180511"
+      },
+      "Microsoft Visual Studio Connected Services": {
+        "version": "14.0.25420",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Universal General MIDI DLS Extension SDK": {
+        "version": "10.1.16299.15",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180503"
+      },
+      "Microsoft Visual Studio Services Hub": {
+        "version": "1.0.25420.01",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Kaspersky Endpoint Security 10 for Windows": {
+        "version": "10.2.5.3201",
+        "publisher": "Kaspersky Lab",
+        "installdate": "20171110"
+      },
+      "Visual Studio 2015 Update 3 (KB3022398)": {
+        "version": "14.0.25420",
+        "publisher": "Microsoft Corporation"
+      },
+      "Team Explorer for Microsoft Visual Studio 2015 Update 3.1": {
+        "version": "14.102.25619",
+        "publisher": "Microsoft",
+        "installdate": "20180524"
+      },
+      "Visual C++ Compiler/Tools X86 Base Package": {
+        "version": "14.0.24210",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.21005": {
+        "version": "12.0.21005.1",
+        "publisher": "Microsoft Corporation"
+      },
+      "Microsoft Visual Studio 2015 Shell (Minimum) Resources": {
+        "version": "14.0.23107",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Windows App Certification Kit x64": {
+        "version": "10.1.17134.12",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180511"
+      },
+      "Windows SDK Desktop Tools x64": {
+        "version": "10.1.17134.12",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180511"
+      },
+      "Microsoft Portable Library Multi-Targeting Pack": {
+        "version": "15.0.26621.02",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170828"
+      },
+      "Visual C++ IDE Core Package": {
+        "version": "14.0.25431",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "SDK ARM Redistributables": {
+        "version": "10.1.17134.12",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180511"
+      },
+      "Windows Mobile Connectivity Tools 10.0.15254.0 - Desktop x86": {
+        "version": "10.1.15254.1",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180511"
+      },
+      "Windows SDK Desktop Headers arm": {
+        "version": "10.1.16299.15",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180503"
+      },
+      "Xamarin Workbooks and Inspector": {
+        "version": "1.4.0.9000",
+        "publisher": "Xamarin",
+        "installdate": "20180316"
+      },
+      "Microsoft SQL Server 2008 R2 Management Objects": {
+        "version": "10.51.2500.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "WinRT Intellisense IoT - Other Languages": {
+        "version": "10.1.16299.15",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180503"
+      },
+      "vs_cuitextensionmsi": {
+        "version": "15.7.27520",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180511"
+      },
+      "Update for Microsoft Visual Studio 2015 (KB3165756)": {
+        "version": "14.0.25431",
+        "publisher": "Microsoft Corporation"
+      },
+      "Azure AD Authentication Connected Service": {
+        "version": "14.0.25420",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Microsoft .NET Framework 4.6.1 Targeting Pack": {
+        "version": "4.6.01055",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170828"
+      },
+      "Microsoft Visual Studio 2015 XAML Visual Diagnostics - ENU": {
+        "version": "14.0.25420",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Microsoft SQL Server 2016 T-SQL Language Service ": {
+        "version": "13.0.14500.10",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Visual Studio Graphics Analyzer": {
+        "version": "14.0.25420",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Visual C++ MSBuild X86 Package": {
+        "version": "14.0.25420",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Windows IP Over USB": {
+        "version": "10.1.16299.15",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20171102"
+      },
+      "vs_FileTracker_Singleton": {
+        "version": "15.6.27309",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180316"
+      },
+      "Microsoft .NET Framework 4.6.1 Targeting Pack (ENU)": {
+        "version": "4.6.01055",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Microsoft Azure Storage Connected Service": {
+        "version": "14.0.25420",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Microsoft ASP.NET Web Tools Packages 15.0 - ENU": {
+        "version": "1.0.30402.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180511"
+      },
+      "vs_clickoncebootstrappermsires": {
+        "version": "15.0.27005",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20171214"
+      },
+      "Microsoft UniversalWindowsPlatform SDK": {
+        "version": "15.7.4",
+        "publisher": "Microsoft",
+        "installdate": "20180511"
+      },
+      "Microsoft Application Error Reporting": {
+        "version": "12.0.6012.5000",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.60610": {
+        "version": "11.0.60610.1",
+        "publisher": "Microsoft Corporation"
+      },
+      "Microsoft .NET Framework 4.5.1 RC Multi-Targeting Pack for Windows Store Apps": {
+        "version": "4.5.21005",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Microsoft Visual Studio Setup Configuration": {
+        "version": "1.16.1163.30317",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180511"
+      },
+      "Windows SDK Modern Non-Versioned Developer Tools": {
+        "version": "10.1.17134.12",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180511"
+      },
+      "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.17": {
+        "version": "9.0.30729",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170919"
+      },
+      "Windows Mobile Extension SDK Contracts": {
+        "version": "10.1.16299.15",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180503"
+      },
+      "vs_minshellinteropmsi": {
+        "version": "15.7.27604",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180511"
+      },
+      "Microsoft Expression Blend SDK for .NET 4": {
+        "version": "2.0.20525.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Windows Simulator - ENU": {
+        "version": "15.0.26621",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170828"
+      },
+      "Test Tools for Microsoft Visual Studio 2015": {
+        "version": "14.0.23107",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Microsoft Azure Mobile Services SDK V2.0": {
+        "version": "2.0.20908.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Windows SDK Desktop Libs x64": {
+        "version": "10.1.16299.15",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180503"
+      },
+      "Microsoft .NET Framework 4.6.2 Targeting Pack": {
+        "version": "4.6.01590",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.60610": {
+        "version": "11.0.60610.1",
+        "publisher": "Microsoft Corporation"
+      },
+      "Windows Software Development Kit DirectX x86 Remote": {
+        "version": "8.100.25984",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Microsoft Azure Mobile App SDK V3.0": {
+        "version": "3.0.50407.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170828"
+      },
+      "Microsoft .NET Framework 4.5.1 RC Multi-Targeting Pack for Windows Store Apps (ENU)": {
+        "version": "4.5.21005",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "WinRT Intellisense PPI - Other Languages": {
+        "version": "10.1.17134.12",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180511"
+      },
+      "Microsoft Visual Studio 2015 Update 3.1 Team Explorer Language Pack - ENU": {
+        "version": "14.102.25619",
+        "publisher": "Microsoft",
+        "installdate": "20180524"
+      },
+      "Visual Studio 2012 Verification SDK": {
+        "version": "14.0.25420",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Visual C++ IDE Base Resource Package": {
+        "version": "14.0.25420",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Microsoft Visual Studio 2015 Update 3 Performance Debugger Web Views": {
+        "version": "14.0.25420",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "vs_clickoncebootstrappermsi": {
+        "version": "15.0.27005",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20171214"
+      },
+      "vs_update3notification": {
+        "version": "14.0.25431",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Microsoft Visual Studio 2015 Windows Diagnostic Tools - ENU": {
+        "version": "14.0.25420",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Microsoft Visual Studio 2015 XAML Designer - ENU": {
+        "version": "14.0.25420",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Windows Team Extension SDK Contracts": {
+        "version": "10.1.17134.12",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180511"
+      },
+      "VS Update core components": {
+        "version": "14.0.25431",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "vs_codecoveragemsi": {
+        "version": "15.0.27005",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20171214"
+      },
+      "Microsoft Windows Communication Foundation Diagnostic Pack for x86": {
+        "version": "15.0.27005",
+        "publisher": "Microsoft",
+        "installdate": "20171214"
+      },
+      "Microsoft Agents for Visual Studio 2015 Preview - ENU": {
+        "version": "14.0.23102",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Microsoft .NET Framework 4.6 SDK": {
+        "version": "4.6.00081",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Universal CRT Redistributable": {
+        "version": "10.1.17134.12",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180511"
+      },
+      "vs_filehandler_amd64": {
+        "version": "15.7.27617",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180511"
+      },
+      "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.4974": {
+        "version": "9.0.30729.4974",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Windows Phone SDK 8.0 Assemblies for Visual Studio 2017": {
+        "version": "15.0.27604",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180511"
+      },
+      "Microsoft Visual Studio Enterprise 2015 - ENU": {
+        "version": "14.0.23107",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Microsoft Portable Library Multi-Targeting Pack Language Pack - enu": {
+        "version": "15.0.26621.02",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170828"
+      },
+      "TypeScript Tools for Microsoft Visual Studio 2015": {
+        "version": "1.8.36.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Microsoft Blend for Visual Studio 2015 - ENU": {
+        "version": "14.0.25420",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "WinRT Intellisense UAP - Other Languages": {
+        "version": "10.1.17134.12",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180511"
+      },
+      "Visual C++ IDE Common Package": {
+        "version": "14.0.25420",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Visual F# 10.1 SDK": {
+        "version": "10.1",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Xamarin Android Device Manager": {
+        "version": "1.0.0.0",
+        "publisher": "Xamarin",
+        "installdate": "20180112"
+      },
+      "vs_devenvmsi": {
+        "version": "15.0.26621",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170828"
+      },
+      "vs_professionalmsi": {
+        "version": "15.0.26621",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170828"
+      },
+      "windows_toolscorepkg": {
+        "version": "15.7.27703",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "WinRT Intellisense Desktop - Other Languages": {
+        "version": "10.1.16299.15",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180503"
+      },
+      "Microsoft Visual Studio 2015 XAML Application Timeline - ENU": {
+        "version": "14.0.25420",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Microsoft SQL Server System CLR Types": {
+        "version": "10.51.2500.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "vs_BlendMsi": {
+        "version": "15.0.27205",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180316"
+      },
+      "Windows SDK for Windows Store Apps": {
+        "version": "10.1.17134.12",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180511"
+      },
+      "Visual C++ IDE Professional Core Package": {
+        "version": "14.0.25420",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Microsoft .NET Framework 4.6.2 Targeting Pack (ENU)": {
+        "version": "4.6.01590",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Microsoft Visual C++ 2015 x86 Debug Runtime - 14.0.24215": {
+        "version": "14.0.24215",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Microsoft ASP.NET Web Frameworks and Tools - Visual Studio 2015 - ENU": {
+        "version": "5.2.40314.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "vs_helpconfigmsi": {
+        "version": "15.0.27005",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20171214"
+      },
+      "Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.21005": {
+        "version": "12.0.21005.1",
+        "publisher": "Microsoft Corporation"
+      },
+      "Microsoft Agents for Visual Studio 2015 Preview": {
+        "version": "14.0.23102",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Microsoft .NET Framework 4 Multi-Targeting Pack": {
+        "version": "4.0.30319",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170828"
+      },
+      "Update for  (KB2504637)": {
+        "version": "1",
+        "publisher": "Microsoft Corporation"
+      },
+      "Visual C++ MSBuild Base Resource Package": {
+        "version": "14.0.25420",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Git Extensions 2.50.02": {
+        "version": "2.50.02",
+        "publisher": "Henk",
+        "installdate": "20180330"
+      },
+      "ClickOnce Bootstrapper Package for Microsoft .NET Framework": {
+        "version": "4.7.02558",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20171214"
+      },
+      "Microsoft .NET Framework 4.5.1 Multi-Targeting Pack (ENU)": {
+        "version": "4.5.50932",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Microsoft ASP.NET Diagnostic Pack for Visual Studio": {
+        "version": "15.0.40511.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Entity Framework 6.2.0 Tools  for Visual Studio 2017": {
+        "version": "6.2.61529.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180511"
+      },
+      "Microsoft Visual Studio 2010 Shell (Isolated) - ENU": {
+        "version": "10.0.40219",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180531"
+      },
+      "Microsoft Blend for Visual Studio 2015": {
+        "version": "14.0.25420",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Windows SDK Redistributables": {
+        "version": "10.1.17134.12",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180511"
+      },
+      "Microsoft Visual Studio Premium 2015 - ENU": {
+        "version": "14.0.23107",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Microsoft Visual Studio 2015 XAML Designer": {
+        "version": "14.0.25431",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "WCF Data Services 5.6.4 Runtime": {
+        "version": "5.6.62175.4",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Microsoft Visual Studio Community 2015": {
+        "version": "14.0.23107",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Syncfusion Essential Studio 15.3.0.33": {
+        "version": "15.3.0.33",
+        "publisher": "Syncfusion, Inc"
+      },
+      "Microsoft .NET Core 5.0 SDK": {
+        "version": "1.0.23902",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Windows SDK AddOn": {
+        "version": "10.1.0.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170828"
+      },
+      "Microsoft Silverlight 5 SDK": {
+        "version": "5.0.61118.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Visual C++ IDE Debugger Resource Package": {
+        "version": "14.0.25420",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Microsoft Visual Studio Enterprise 2015 with Updates": {
+        "version": "14.0.25420.1",
+        "publisher": "Microsoft Corporation"
+      },
+      "Microsoft Visual Studio 2015 Test Tools Language Pack - ENU": {
+        "version": "14.0.23107",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.60610": {
+        "version": "11.0.60610",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Visual C++ Library CRT Appx Resource Package": {
+        "version": "14.14.26428",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180511"
+      },
+      "Microsoft Visual C++ 2017 Redistributable (x86) - 14.14.26405": {
+        "version": "14.14.26405.0",
+        "publisher": "Microsoft Corporation"
+      },
+      "Visual C++ MSBuild X64 Package": {
+        "version": "14.0.25420",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "vs_filehandler_x86": {
+        "version": "15.7.27617",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180511"
+      },
+      "Visual C++ IDE Common Resource Package": {
+        "version": "14.0.25420",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Microsoft Azure Shared Components for Visual Studio 2015 - v1.8": {
+        "version": "1.8.40521.1",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219": {
+        "version": "10.0.40219",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Xamarin Remoted iOS Simulator": {
+        "version": "1.2.7.20",
+        "publisher": "Xamarin",
+        "installdate": "20180511"
+      },
+      "Visual C++ IDE Debugger Package": {
+        "version": "14.0.25431",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Active Directory Authentication Library for SQL Server (x86)": {
+        "version": "13.0.1601.5",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "vs_minshellmsi": {
+        "version": "15.7.27617",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180511"
+      },
+      "Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501": {
+        "version": "12.0.30501.0",
+        "publisher": "Microsoft Corporation"
+      },
+      "Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.21005": {
+        "version": "12.0.21005",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170828"
+      },
+      "Microsoft Visual Studio 2015 Devenv": {
+        "version": "14.0.23107",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Windows Espc Resource Package": {
+        "version": "14.0.23107",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Microsoft Visual Studio 2015 XAML Visual Diagnostics": {
+        "version": "14.0.25431",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180524"
+      },
+      "Windows SDK DirectX x86 Remote": {
+        "version": "10.1.17134.12",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180511"
+      },
+      "Windows App Certification Kit SupportedApiList x86": {
+        "version": "10.1.17134.12",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180511"
+      }
+    },
+    "root_group": "Administrators",
+    "shard_seed": 110581841,
+    "time": {
+      "timezone": "W. Europe Daylight Time"
+    },
+    "chef_guid": "adfb6142-2ae2-41ab-9a58-0d327afe5394",
+    "name": "tstam-01.allshare.net",
+    "chef_environment": "_default",
+    "recipes": [
+      "solocookbook",
+      "solocookbook::default",
+      "solocookbook::default2"
+    ],
+    "expanded_run_list": [
+      "solocookbook::default",
+      "solocookbook::default2"
+    ],
+    "roles": [
+
+    ],
+    "cookbooks": {
+      "solocookbook": {
+        "version": "0.1.0"
+      }
+    }
+  },
+  "run_list": [
+    "recipe[solocookbook]",
+    "recipe[solocookbook::default2]"
+  ]
+}
