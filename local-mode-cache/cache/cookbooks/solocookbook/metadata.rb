@@ -5,6 +5,7 @@ license 'All Rights Reserved'
 description 'Installs/Configures solocookbook'
 long_description 'Installs/Configures solocookbook'
 version '0.1.0'
+depends 'windows'
 chef_version '>= 12.14' if respond_to?(:chef_version)
 
 # The `issues_url` points to the location where issues for this cookbook are

@@ -26,9 +26,9 @@
     "filesystem": {
       "C:": {
         "kb_size": 499578302,
-        "kb_available": 257587769,
-        "kb_used": 241990533,
-        "percent_used": 48,
+        "kb_available": 252315004,
+        "kb_used": 247263298,
+        "percent_used": 49,
         "mount": "C:",
         "fs_type": "ntfs",
         "volume_name": ""
@@ -97,7 +97,7 @@
         "install_date": "20170824121100.000000+120",
         "large_system_cache": null,
         "last_boot_up_time": "20180601095741.495407+120",
-        "local_date_time": "20180607151448.875000+120",
+        "local_date_time": "20180607163619.639000+120",
         "locale": "0409",
         "manufacturer": "Microsoft Corporation",
         "max_number_of_processes": -1,
@@ -107,7 +107,7 @@
         ],
         "name": "Microsoft Windows 10 Pro|C:\\Windows|\\Device\\Harddisk0\\Partition2",
         "number_of_licensed_users": 0,
-        "number_of_processes": 158,
+        "number_of_processes": 159,
         "number_of_users": 11,
         "operating_system_sku": 48,
         "organization": "",
@@ -232,10 +232,10 @@
     "memory": {
       "swap": {
         "total": "2490368kB",
-        "free": "2474932kB"
+        "free": "2478588kB"
       },
       "total": "16743200kB",
-      "free": "9763668kB"
+      "free": "10225656kB"
     },
     "network": {
       "interfaces": {
@@ -606,8 +606,8 @@
             "default_ttl": null,
             "description": "VMware Virtual Ethernet Adapter for VMnet1",
             "dhcp_enabled": true,
-            "dhcp_lease_expires": "20180607154343.000000+120",
-            "dhcp_lease_obtained": "20180607151343.000000+120",
+            "dhcp_lease_expires": "20180607165843.000000+120",
+            "dhcp_lease_obtained": "20180607162843.000000+120",
             "dhcp_server": "192.168.131.254",
             "dns_domain": null,
             "dns_domain_suffix_search_order": [
@@ -760,8 +760,8 @@
             "default_ttl": null,
             "description": "VMware Virtual Ethernet Adapter for VMnet8",
             "dhcp_enabled": true,
-            "dhcp_lease_expires": "20180607154346.000000+120",
-            "dhcp_lease_obtained": "20180607151346.000000+120",
+            "dhcp_lease_expires": "20180607165846.000000+120",
+            "dhcp_lease_obtained": "20180607162846.000000+120",
             "dhcp_server": "192.168.181.254",
             "dns_domain": null,
             "dns_domain_suffix_search_order": [
@@ -915,8 +915,8 @@
     "platform": "windows",
     "platform_version": "10.0.15063",
     "platform_family": "windows",
-    "uptime_seconds": 537428,
-    "uptime": "6 days 05 hours 17 minutes 08 seconds",
+    "uptime_seconds": 542319,
+    "uptime": "6 days 06 hours 38 minutes 39 seconds",
     "virtualization": {
       "systems": {
 
@@ -1011,7 +1011,7 @@
         "enabled": false
       }
     },
-    "ohai_time": 1528377294.210853,
+    "ohai_time": 1528382185.542903,
     "packages": {
       "CCleaner": {
         "version": "5.42",
@@ -3401,11 +3401,13 @@
     "recipes": [
       "solocookbook",
       "solocookbook::default",
-      "solocookbook::default2"
+      "solocookbook::default2",
+      "solocookbook::makezip"
     ],
     "expanded_run_list": [
       "solocookbook::default",
-      "solocookbook::default2"
+      "solocookbook::default2",
+      "solocookbook::makezip"
     ],
     "roles": [
 
@@ -3413,11 +3415,15 @@
     "cookbooks": {
       "solocookbook": {
         "version": "0.1.0"
+      },
+      "windows": {
+        "version": "4.2.5"
       }
     }
   },
   "run_list": [
     "recipe[solocookbook]",
-    "recipe[solocookbook::default2]"
+    "recipe[solocookbook::default2]",
+    "recipe[solocookbook::makezip]"
   ]
 }
